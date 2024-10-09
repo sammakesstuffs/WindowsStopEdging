@@ -1,0 +1,2 @@
+# WindowsStopEdging
+Removes MS Edge
